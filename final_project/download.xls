@@ -1,0 +1,24 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>W3C Example Table</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+                                        <thead>
+                                            <tr>
+                                                <th colspan="6" style="text-align: center;">
+                                                    <h3>Nifty 50 Historical Data</h3>
+                                                </th>
+                                            </tr>
+                                            <tr>
+                                                <th colspan="6" style="text-align: center;">
+                                                    <h5>Equitypandit Financial Services Pvt. Ltd.</h5>
+                                                </th>
+                                            </tr>
+                                            <tr>
+                                                <th>Date</th>
+                                                <th>Price</th>
+                                                <th>Open</th>
+                                                <th>High</th>
+                                                <th>Low</th>
+                                                <th>Volume</th>
+                                                <th>Change(%)</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            </tbody></table></body></html>
